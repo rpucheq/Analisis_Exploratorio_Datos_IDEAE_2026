@@ -11,11 +11,11 @@ de datos en R, con enfasis en:
 - Carga e inspeccion inicial de datos.
 - Limpieza y filtrado de observaciones.
 - Visualizacion estadistica base y con ggplot2.
-- Comparaciones entre subgrupos para apoyar interpretacion.
+
 
 ## Contenido actual
 
-- AED_covidtesting.r: guia paso a paso de analisis exploratorio usando el dataset
+- [AED_covidtesting.r](AED_covidtesting.r): guia paso a paso de analisis exploratorio usando el dataset
 	covid_testing del paquete medicaldata.
 
 ## Requisitos

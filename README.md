@@ -17,6 +17,7 @@ de datos en R, con enfasis en:
 
 - [AED_covidtesting.r](AED_covidtesting.r): guia paso a paso de analisis exploratorio usando el dataset
 	covid_testing del paquete medicaldata.
+- [Clase 1 (PDF)](Clase_1_AnálisisExploratorioDatos(EDA)_RP_FH_May2026.pdf): material de la primera clase.
 
 ## Requisitos
 
